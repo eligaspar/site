@@ -1,2 +1,2 @@
 # site
-Repositório para o Projecto Final - SIG para o Sie Maste do Hospital Divina Providência
+Repositório de Teste para principiantes do gitHub.
